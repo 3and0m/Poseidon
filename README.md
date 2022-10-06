@@ -7,3 +7,13 @@ Poseidon is a simple discord raid bot, it is very easy to use you only have to f
 Do not forget to launch the start.bat before launching the program.
 
 
+# Required
+
+Nextcord
+Pystyle 
+Pynotifier
+Colorama
+Json
+Datetime 
+
+
