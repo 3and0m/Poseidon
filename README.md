@@ -4,15 +4,15 @@
 
 Poseidon is a simple discord raid bot, it is very easy to use you only have to fill with your information in the config.js.
 
-
+<p align="center"><strong>
 
 # ⭐ Required ⭐ 
 
-Nextcord 
+*Nextcord 
 Pystyle 
 Pynotifier
 Colorama
 Json
-Datetime 
+Datetime *
 
 
