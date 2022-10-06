@@ -4,7 +4,7 @@
 
 Poseidon is a simple discord raid bot, it is very easy to use you only have to fill with your information in the config.js.
 
-markdown-body entry-content container-lg
+class="markdown-body entry-content container-lg"
 
 # Required
 
