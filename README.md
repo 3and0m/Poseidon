@@ -1,5 +1,11 @@
 # Poseidon
-Poseidon is Raid Bot discord. 
+
 ![93137eb35a1eff0bdf785a1b1a294837](https://user-images.githubusercontent.com/86504182/194375559-d0cb91b1-a3b9-4f76-afcc-cb3eaaa589d2.png)
+
+
+
+Poseidon is a simple discord raid bot, it is very easy to use you only have to fill with your information in the config.js.
+
+Do not forget to launch the start.bat before launching the program.
 
 
