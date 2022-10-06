@@ -9,8 +9,8 @@ Do not forget to launch the start.bat before launching the program.
 
 # Required
 
-Nextcord \n
-Pystyle \n 
+Nextcord 
+Pystyle 
 Pynotifier
 Colorama
 Json
