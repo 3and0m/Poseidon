@@ -1,0 +1,8 @@
+{
+    "token": "enter your token here",
+    "prefix": "enter your prefix here",
+    "spam_msg": "enter channel name ",
+    "spam_msg2": "enter message spam ",
+    "mention" : "@everyone @here",
+    "role" : "enter name role"
+}
