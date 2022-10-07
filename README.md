@@ -6,7 +6,7 @@
 
 <hr>
 
-Poseidon is a simple discord raid bot, it is very easy to use you only have to fill with your information in the config.js.
+Poseidon is a simple Discord Nuke Bot, it is very easy to use you only have to fill with your information in the config.js.
 
 <hr>
 
