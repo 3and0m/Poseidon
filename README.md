@@ -8,7 +8,7 @@ Poseidon is a simple Discord Nuke Bot, it is very easy to use you only have to f
 
 <hr>
 
-# ⭐ Required ⭐ 
+<h2 align="center">⭐ Required ⭐ </h2>
 
 Nextcord <br>
 Pystyle <br>
@@ -19,7 +19,7 @@ Datetime <br>
 
 <hr>
 
-# 🔴 Disclaimer 🔴
+<h2 align="center">🔴 Disclaimer 🔴</h2>
 
 ・Please use this program only for educational purposes. <br>
 ・It is not meant to be used in any malicious way, and I decline any responsibility for what you do with it.
